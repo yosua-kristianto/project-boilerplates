@@ -24,7 +24,7 @@ I got tired of manually setting up project structures, installing the same packa
 ## 👀 Looking for Express.js with TypeScript?
 
 I’ve got that too! Check out my Express TypeScript template here:  
-👉 [this url](this url)
+👉 [TypeScript Express JS](git@github.com:yosua-kristianto/typescript-expressjs.git)
 
 ---
 
