@@ -50,4 +50,4 @@ I believe good boilerplates = less stress and more clarity.
 So yeah, build something cool and don’t get stuck on setup again.
 
 Cheers,  
-**[Your Name or Handle]**
+**Yosua Kristianto**
